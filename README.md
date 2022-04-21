@@ -6,4 +6,4 @@ A C++ program that simulates a simplified version of the Magic the Gathering (Mt
 
 [The Guideline](CMP1002-TermProjectV2.pdf)
 
-[You can play this from here!](CMP1002-TermProjectV2.pdf)
+[You can play this from here!](MtG.exe)
