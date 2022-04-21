@@ -1,0 +1,3 @@
+C:/Users/sping/Desktop/MtG_Smart_Pointer/MtG/cmake-build-debug/CMakeFiles/MtG.dir
+C:/Users/sping/Desktop/MtG_Smart_Pointer/MtG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sping/Desktop/MtG_Smart_Pointer/MtG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

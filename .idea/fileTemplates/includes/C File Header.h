@@ -1,0 +1,8 @@
+#if ($HEADER_COMMENTS)
+
+#if ($ORGANIZATION_NAME && $ORGANIZATION_NAME != "")
+
+#end
+
+#end
+
